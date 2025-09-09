@@ -1,6 +1,6 @@
 # Character Queries
 
-This folder contains GraphQL queries and outputs for fetching specific characters by ID as well as for fetching episodes and their associated characters from the [Rick and Morty GraphQL API](https://rickandmortyapi.com/graphql).
+This folder contains GraphQL queries and outputs for fetching specific characters by ID from the [Rick and Morty GraphQL API](https://rickandmortyapi.com/graphql).
 
 ## Data (Query) Files
 
@@ -8,11 +8,6 @@ This folder contains GraphQL queries and outputs for fetching specific character
 - `character-id-2.graphql` → Query for character with ID 2
 - `character-id-3.graphql` → Query for character with ID 3
 - `character-id-4.graphql` → Query for character with ID 4
-- `episode-page-1.graphql` → Query for episodes on page 1
-- `characters-page-1.graphql` → Query for characters on page 1
-- `characters-page-2.graphql` → Query for characters on page 2
-- `characters-page-3.graphql` → Query for characters on page 3
-- `characters-page-4.graphql` → Query for characters on page 4
 
 ## Output Files
 
